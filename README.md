@@ -12,4 +12,8 @@ MISO_PIN 13
 
 MOSI_PIN 11
 
+Vcc  3.3v
+
+GND  GND
+
 <img width="938" height="470" alt="image" src="https://github.com/user-attachments/assets/b76154c0-9870-45c0-9027-9f7bb4964c88" />
